@@ -11,8 +11,8 @@ NIGHTCOIL is a community-led memecoin project. At this stage, the focus is on bu
 ## Official links
 
 - pump.fun: https://pump.fun/coin/9BqEdSCuUV1tp9QgnbfLdEDbUT7fcAnK2ExYGYMPpump
-- Telegram: [add official Telegram link]
-- X: [add official X link]
+- Telegram:https://t.me/+sTfBUGrNeR5hNGRk
+- X: 
 
 ## Token information
 
